@@ -1,4 +1,13 @@
+# other packages
 bila/
+turtl-server-git/
+
+# makepkg dirs
 src/
 pkg/
-TODO
+
+# freeling
+priv/
+
+# other
+notes.txt
