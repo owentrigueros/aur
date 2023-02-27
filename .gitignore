@@ -1,0 +1,10 @@
+# other packages
+bila/
+turtl-server-git/
+
+# makepkg dirs
+src/
+pkg/
+
+# other
+notes.txt
