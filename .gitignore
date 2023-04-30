@@ -1,10 +1,7 @@
-# other packages
 bila/
 turtl-server-git/
-
-# makepkg dirs
 src/
 pkg/
-
-# other
+*.tar.gz
+*.tar.zst
 notes.txt
